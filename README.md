@@ -1,2 +1,2 @@
-# Test
+# Test GitHub
 GitHub Test Repository
